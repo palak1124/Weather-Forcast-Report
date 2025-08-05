@@ -51,8 +51,3 @@ To explore this project:
 * **Web Scraping with Power Query:** I learned how to navigate and extract data from complex HTML structures using Power Query's `Table.FromRows` and other functions.
 * **Dynamic Data Handling:** I implemented a solution to handle dynamic data that changes daily, ensuring the dashboard remains up-to-date without manual intervention.
 * **UI/UX Design:** I focused on creating a visually appealing and easy-to-read dashboard, using custom colors and layouts to enhance the user experience.
-
-
-* [Your Name] - [Your LinkedIn Profile Link]
-
-Feel free to star the repository if you find it helpful! Pull requests and suggestions are welcome.
