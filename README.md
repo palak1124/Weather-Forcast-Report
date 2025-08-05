@@ -1,7 +1,3 @@
-Here's a detailed content draft for your GitHub repository, based on the Power BI weather dashboard project. This version is more technical and structured, perfect for a developer audience.
-
-***
-
 ### ☀️ Dynamic Weather Dashboard with Power BI
 
 This repository contains the files for my Power BI project: a dynamic weather dashboard that visualizes current and forecasted weather conditions. This project was developed to showcase my skills in data extraction, transformation, and visualization using Power BI.
