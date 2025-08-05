@@ -9,7 +9,8 @@ This repository contains the files for my Power BI project: a dynamic weather da
 #### 📊 Dashboard Overview
 
 The dashboard provides a comprehensive view of weather data, updated live from a web source. It is designed to be intuitive and informative, offering insights into various meteorological parameters.
-![Uploading image.png…]()
+<img width="1427" height="807" alt="image" src="https://github.com/user-attachments/assets/8c7044c2-6004-4448-82fd-d3eb07334205" />
+
 
 
 **Key Features:**
